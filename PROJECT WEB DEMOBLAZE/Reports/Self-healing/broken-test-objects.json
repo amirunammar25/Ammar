@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/DEMOBLAZE/Samsung Galaxy S6/Page_STORE/a_Add to cart",
+      "brokenLocator": "//a[@onclick\u003d\u0027addToCart(1)\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027tbodyid\u0027]/div[2]/div/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/DEMOBLAZE/Samsung Galaxy S6/Page_STORE/a_Add to cart_idRelative.png"
+    }
+  ]
+}

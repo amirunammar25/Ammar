@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login With Multiple Data" time="31.488" tests="4" failures="0" errors="0">
+   <testsuite name="Login With Multiple Data" tests="4" failures="0" errors="0" time="31.488" skipped="0" timestamp="2022-04-15 01:38:33" hostname="User - LAPTOP-VADP8VTF.realtek" id="Test Suites/DEMOBLAZE/Login With Multiple Data">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\User\\Katalon Studio\\PROJECT WEB DEMOBLAZE\\Reports\\20220415_013822\\DEMOBLAZE\\Login With Multiple Data\\20220415_013822"/>
+         <property name="logFiles" value="C:\\Users\\User\\Katalon Studio\\PROJECT WEB DEMOBLAZE\\Reports\\20220415_013822\\DEMOBLAZE\\Login With Multiple Data\\20220415_013822\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="User - LAPTOP-VADP8VTF.realtek"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.2.5.208"/>
+         <property name="browser" value="Chrome 100.0.4896.88"/>
+         <property name="hostAddress" value="192.168.0.7"/>
+         <property name="sessionId" value="32f85f401e0a985e319f61ecc1184bce"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Data Driven Login" time="9.761" classname="Test Cases/Data Driven Login" status="PASSED">
+         <system-out><![CDATA[2022-04-15 01:38:33 - [TEST_CASE][PASSED] - Test Cases/Data Driven Login: Test Cases/Data Driven Login
+
+2022-04-15 01:38:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-04-15 01:38:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-15 01:38:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-15 01:38:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-04-15 01:38:39 - [TEST_STEP][PASSED] - navigateToUrl("https://www.demoblaze.com/"): Navigate to 'https://www.demoblaze.com/' successfully
+
+2022-04-15 01:38:40 - [MESSAGE][PASSED] - Navigate to 'https://www.demoblaze.com/' successfully
+
+2022-04-15 01:38:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in")): Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in' is clicked on
+
+2022-04-15 01:38:41 - [MESSAGE][PASSED] - Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in' is clicked on
+
+2022-04-15 01:38:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername"), Username): Text 'Abu1' is set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername'
+
+2022-04-15 01:38:42 - [MESSAGE][PASSED] - Text 'Abu1' is set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername'
+
+2022-04-15 01:38:42 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword"), Password): Text ****** has been set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword'
+
+2022-04-15 01:38:42 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword'
+
+2022-04-15 01:38:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in")): Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in' is clicked on
+
+2022-04-15 01:38:43 - [MESSAGE][PASSED] - Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data Driven Login" time="7.282" classname="Test Cases/Data Driven Login" status="PASSED">
+         <system-out><![CDATA[2022-04-15 01:38:43 - [TEST_CASE][PASSED] - Test Cases/Data Driven Login: Test Cases/Data Driven Login
+
+2022-04-15 01:38:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-04-15 01:38:43 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-04-15 01:38:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-15 01:38:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-15 01:38:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-04-15 01:38:46 - [TEST_STEP][PASSED] - navigateToUrl("https://www.demoblaze.com/"): Navigate to 'https://www.demoblaze.com/' successfully
+
+2022-04-15 01:38:47 - [MESSAGE][PASSED] - Navigate to 'https://www.demoblaze.com/' successfully
+
+2022-04-15 01:38:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in")): Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in' is clicked on
+
+2022-04-15 01:38:48 - [MESSAGE][PASSED] - Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in' is clicked on
+
+2022-04-15 01:38:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername"), Username): Text 'Abu2' is set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername'
+
+2022-04-15 01:38:49 - [MESSAGE][PASSED] - Text 'Abu2' is set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername'
+
+2022-04-15 01:38:49 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword"), Password): Text ****** has been set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword'
+
+2022-04-15 01:38:50 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword'
+
+2022-04-15 01:38:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in")): Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in' is clicked on
+
+2022-04-15 01:38:50 - [MESSAGE][PASSED] - Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data Driven Login" time="6.606" classname="Test Cases/Data Driven Login" status="PASSED">
+         <system-out><![CDATA[2022-04-15 01:38:50 - [TEST_CASE][PASSED] - Test Cases/Data Driven Login: Test Cases/Data Driven Login
+
+2022-04-15 01:38:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-04-15 01:38:50 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-04-15 01:38:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-15 01:38:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-15 01:38:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-04-15 01:38:53 - [TEST_STEP][PASSED] - navigateToUrl("https://www.demoblaze.com/"): Navigate to 'https://www.demoblaze.com/' successfully
+
+2022-04-15 01:38:54 - [MESSAGE][PASSED] - Navigate to 'https://www.demoblaze.com/' successfully
+
+2022-04-15 01:38:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in")): Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in' is clicked on
+
+2022-04-15 01:38:55 - [MESSAGE][PASSED] - Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in' is clicked on
+
+2022-04-15 01:38:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername"), Username): Text 'Abu3' is set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername'
+
+2022-04-15 01:38:56 - [MESSAGE][PASSED] - Text 'Abu3' is set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername'
+
+2022-04-15 01:38:56 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword"), Password): Text ****** has been set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword'
+
+2022-04-15 01:38:56 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword'
+
+2022-04-15 01:38:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in")): Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in' is clicked on
+
+2022-04-15 01:38:57 - [MESSAGE][PASSED] - Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data Driven Login" time="7.067" classname="Test Cases/Data Driven Login" status="PASSED">
+         <system-out><![CDATA[2022-04-15 01:38:57 - [TEST_CASE][PASSED] - Test Cases/Data Driven Login: Test Cases/Data Driven Login
+
+2022-04-15 01:38:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-04-15 01:38:57 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-04-15 01:38:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-15 01:38:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-15 01:39:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-04-15 01:39:00 - [TEST_STEP][PASSED] - navigateToUrl("https://www.demoblaze.com/"): Navigate to 'https://www.demoblaze.com/' successfully
+
+2022-04-15 01:39:01 - [MESSAGE][PASSED] - Navigate to 'https://www.demoblaze.com/' successfully
+
+2022-04-15 01:39:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in")): Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in' is clicked on
+
+2022-04-15 01:39:02 - [MESSAGE][PASSED] - Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in' is clicked on
+
+2022-04-15 01:39:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername"), Username): Text 'Abu4' is set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername'
+
+2022-04-15 01:39:03 - [MESSAGE][PASSED] - Text 'Abu4' is set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername'
+
+2022-04-15 01:39:03 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword"), Password): Text ****** has been set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword'
+
+2022-04-15 01:39:04 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword'
+
+2022-04-15 01:39:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in")): Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in' is clicked on
+
+2022-04-15 01:39:04 - [MESSAGE][PASSED] - Object: 'Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-04-15 01:38:33 - [TEST_SUITE][PASSED] - Login With Multiple Data: Test Cases/Data Driven Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

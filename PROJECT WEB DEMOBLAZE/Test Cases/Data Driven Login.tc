@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Data Driven Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f711b572-29be-40a0-8b35-063f8c4c0363</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>639f3298-9817-4a8b-b1b1-65f69a0eef88</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>74cf6638-d2c4-4bcb-af10-777ac3854160</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Signing Up With Multiple Data,Chrome 100.0.4896.88,,,2022-04-15 00:49:37,2022-04-15 00:51:19,1m - 41.882s,FAILED
+,,,,,,,
+Test Cases/Sign Up,Chrome 100.0.4896.88,,,2022-04-15 00:50:00,2022-04-15 00:50:06,5.664s,FAILED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 00:50:00,2022-04-15 00:50:03,2.383s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 00:50:03,2022-04-15 00:50:03,0.772s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/a_Sign up""))",Chrome 100.0.4896.88,,,2022-04-15 00:50:03,2022-04-15 00:50:05,1.269s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/input_Username_sign-username""), Username)",Chrome 100.0.4896.88,,,2022-04-15 00:50:05,2022-04-15 00:50:06,0.995s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/input_Password_sign-password""), Password)",Chrome 100.0.4896.88,,,2022-04-15 00:50:06,2022-04-15 00:50:06,0.231s,FAILED
+,,,,,,,
+Test Cases/Sign Up,Chrome 100.0.4896.88,,,2022-04-15 00:50:23,2022-04-15 00:50:29,6.339s,FAILED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 00:50:23,2022-04-15 00:50:25,2.393s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 00:50:25,2022-04-15 00:50:26,0.971s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/a_Sign up""))",Chrome 100.0.4896.88,,,2022-04-15 00:50:26,2022-04-15 00:50:28,1.605s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/input_Username_sign-username""), Username)",Chrome 100.0.4896.88,,,2022-04-15 00:50:28,2022-04-15 00:50:29,1.014s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/input_Password_sign-password""), Password)",Chrome 100.0.4896.88,,,2022-04-15 00:50:29,2022-04-15 00:50:29,0.336s,FAILED
+,,,,,,,
+Test Cases/Sign Up,Chrome 100.0.4896.88,,,2022-04-15 00:50:46,2022-04-15 00:50:51,5.442s,FAILED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 00:50:46,2022-04-15 00:50:48,2.305s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 00:50:48,2022-04-15 00:50:49,0.900s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/a_Sign up""))",Chrome 100.0.4896.88,,,2022-04-15 00:50:49,2022-04-15 00:50:50,0.735s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/input_Username_sign-username""), Username)",Chrome 100.0.4896.88,,,2022-04-15 00:50:50,2022-04-15 00:50:51,1.174s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/input_Password_sign-password""), Password)",Chrome 100.0.4896.88,,,2022-04-15 00:50:51,2022-04-15 00:50:51,0.309s,FAILED
+,,,,,,,
+Test Cases/Sign Up,Chrome 100.0.4896.88,,,2022-04-15 00:51:13,2022-04-15 00:51:19,5.976s,FAILED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 00:51:13,2022-04-15 00:51:15,2.724s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 00:51:15,2022-04-15 00:51:16,0.851s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/a_Sign up""))",Chrome 100.0.4896.88,,,2022-04-15 00:51:16,2022-04-15 00:51:17,1.053s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/input_Username_sign-username""), Username)",Chrome 100.0.4896.88,,,2022-04-15 00:51:17,2022-04-15 00:51:18,0.995s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/input_Password_sign-password""), Password)",Chrome 100.0.4896.88,,,2022-04-15 00:51:18,2022-04-15 00:51:19,0.317s,FAILED

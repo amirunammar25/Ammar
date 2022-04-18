@@ -1,0 +1,67 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Scenarios,Chrome 100.0.4896.88,,,2022-04-15 00:05:11,2022-04-15 00:06:59,1m - 47.982s,PASSED
+,,,,,,,
+Test Cases/Sign Up,Chrome 100.0.4896.88,,,2022-04-15 00:05:11,2022-04-15 00:05:28,16.397s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 00:05:12,2022-04-15 00:05:20,7.846s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 00:05:20,2022-04-15 00:05:21,1.693s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/a_Sign up""))",Chrome 100.0.4896.88,,,2022-04-15 00:05:21,2022-04-15 00:05:24,2.250s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/input_Username_sign-username""), ""Ali12345"")",Chrome 100.0.4896.88,,,2022-04-15 00:05:24,2022-04-15 00:05:25,1.242s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/input_Password_sign-password""), ""T2f+EhbY9lxWCo62oSDqfg=="")",Chrome 100.0.4896.88,,,2022-04-15 00:05:25,2022-04-15 00:05:26,0.689s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Sign Up/Page_STORE/button_Sign up""))",Chrome 100.0.4896.88,,,2022-04-15 00:05:26,2022-04-15 00:05:26,0.646s,PASSED
+closeBrowser(),Chrome 100.0.4896.88,,,2022-04-15 00:05:26,2022-04-15 00:05:28,1.580s,PASSED
+,,,,,,,
+Test Cases/Login,Chrome 100.0.4896.88,,,2022-04-15 00:05:28,2022-04-15 00:05:37,9.560s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 00:05:28,2022-04-15 00:05:32,3.530s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 00:05:32,2022-04-15 00:05:33,1.263s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 00:05:33,2022-04-15 00:05:35,1.926s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername""), ""Ali12345"")",Chrome 100.0.4896.88,,,2022-04-15 00:05:35,2022-04-15 00:05:36,1.067s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword""), ""T2f+EhbY9lxWCo62oSDqfg=="")",Chrome 100.0.4896.88,,,2022-04-15 00:05:36,2022-04-15 00:05:37,0.633s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 00:05:37,2022-04-15 00:05:37,0.536s,PASSED
+,,,,,,,
+Test Cases/Add To Cart,Chrome 100.0.4896.88,,,2022-04-15 00:05:37,2022-04-15 00:05:50,12.920s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 00:05:39,2022-04-15 00:05:45,5.938s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 00:05:45,2022-04-15 00:05:46,1.253s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Add To Cart/Page_STORE/a_Samsung galaxy s6""))",Chrome 100.0.4896.88,,,2022-04-15 00:05:46,2022-04-15 00:05:48,1.701s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Add To Cart/Page_STORE/a_Add to cart""))",Chrome 100.0.4896.88,,,2022-04-15 00:05:48,2022-04-15 00:05:49,1.083s,PASSED
+closeBrowser(),Chrome 100.0.4896.88,,,2022-04-15 00:05:49,2022-04-15 00:05:50,1.120s,PASSED
+,,,,,,,
+Test Cases/Place Order,Chrome 100.0.4896.88,,,2022-04-15 00:05:50,2022-04-15 00:06:20,30.130s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 00:05:51,2022-04-15 00:05:54,3.200s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 00:05:54,2022-04-15 00:05:55,0.870s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/a_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 00:05:55,2022-04-15 00:05:56,1.641s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/input_Username_loginusername""), ""Ali12345"")",Chrome 100.0.4896.88,,,2022-04-15 00:05:56,2022-04-15 00:05:58,1.232s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/input_Password_loginpassword""), ""T2f+EhbY9lxWCo62oSDqfg=="")",Chrome 100.0.4896.88,,,2022-04-15 00:05:58,2022-04-15 00:05:58,0.534s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/button_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 00:05:58,2022-04-15 00:05:59,0.630s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/a_Samsung galaxy s6""))",Chrome 100.0.4896.88,,,2022-04-15 00:05:59,2022-04-15 00:06:03,3.907s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/a_Add to cart""))",Chrome 100.0.4896.88,,,2022-04-15 00:06:03,2022-04-15 00:06:04,1.190s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/a_Cart""))",Chrome 100.0.4896.88,,,2022-04-15 00:06:04,2022-04-15 00:06:06,1.807s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/button_Place Order""))",Chrome 100.0.4896.88,,,2022-04-15 00:06:06,2022-04-15 00:06:07,1.553s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/input_Name_name""), ""Ali"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:07,2022-04-15 00:06:09,1.414s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/input_Country_country""), ""Malaysia"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:09,2022-04-15 00:06:10,1.383s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/input_City_city""), ""Bayan Lepas"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:10,2022-04-15 00:06:11,1.011s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/input_Credit card_card""), ""1234"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:11,2022-04-15 00:06:12,0.888s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/input_Month_month""), ""12"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:12,2022-04-15 00:06:13,1.263s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/input_Year_year""), ""2024"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:13,2022-04-15 00:06:14,0.979s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/button_Purchase""))",Chrome 100.0.4896.88,,,2022-04-15 00:06:14,2022-04-15 00:06:16,1.330s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Place Order/Page_STORE/button_OK""))",Chrome 100.0.4896.88,,,2022-04-15 00:06:16,2022-04-15 00:06:17,1.933s,PASSED
+closeBrowser(),Chrome 100.0.4896.88,,,2022-04-15 00:06:17,2022-04-15 00:06:20,2.920s,PASSED
+,,,,,,,
+Test Cases/Contact Us,Chrome 100.0.4896.88,,,2022-04-15 00:06:20,2022-04-15 00:06:39,19.088s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 00:06:21,2022-04-15 00:06:27,5.978s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:27,2022-04-15 00:06:29,1.913s,PASSED
+"click(findTestObject(""DEMOBLAZE/Contact Us/Page_STORE/a_Contact""))",Chrome 100.0.4896.88,,,2022-04-15 00:06:29,2022-04-15 00:06:31,1.676s,PASSED
+"setText(findTestObject(""DEMOBLAZE/Contact Us/Page_STORE/input_Contact Email_recipient-email""), ""ali@gmail.com"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:31,2022-04-15 00:06:32,1.617s,PASSED
+"setText(findTestObject(""DEMOBLAZE/Contact Us/Page_STORE/input_Contact Name_recipient-name""), ""Ali"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:32,2022-04-15 00:06:34,1.257s,PASSED
+"setText(findTestObject(""DEMOBLAZE/Contact Us/Page_STORE/textarea_Message_message-text""), ""Abc"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:34,2022-04-15 00:06:35,1.087s,PASSED
+"click(findTestObject(""DEMOBLAZE/Contact Us/Page_STORE/button_Send message""))",Chrome 100.0.4896.88,,,2022-04-15 00:06:35,2022-04-15 00:06:36,1.676s,PASSED
+closeBrowser(),Chrome 100.0.4896.88,,,2022-04-15 00:06:36,2022-04-15 00:06:39,3.034s,PASSED
+,,,,,,,
+Test Cases/Logout,Chrome 100.0.4896.88,,,2022-04-15 00:06:40,2022-04-15 00:06:59,19.395s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 00:06:40,2022-04-15 00:06:46,5.843s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:46,2022-04-15 00:06:47,1.544s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Logout/Page_STORE/a_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 00:06:47,2022-04-15 00:06:49,1.928s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Logout/Page_STORE/input_Username_loginusername""), ""Ali12345"")",Chrome 100.0.4896.88,,,2022-04-15 00:06:49,2022-04-15 00:06:52,2.794s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Logout/Page_STORE/input_Password_loginpassword""), ""T2f+EhbY9lxWCo62oSDqfg=="")",Chrome 100.0.4896.88,,,2022-04-15 00:06:52,2022-04-15 00:06:53,0.676s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Logout/Page_STORE/button_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 00:06:53,2022-04-15 00:06:54,0.900s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Logout/Page_STORE/a_Log out""))",Chrome 100.0.4896.88,,,2022-04-15 00:06:54,2022-04-15 00:06:57,3.208s,PASSED
+closeBrowser(),Chrome 100.0.4896.88,,,2022-04-15 00:06:57,2022-04-15 00:06:59,1.914s,PASSED

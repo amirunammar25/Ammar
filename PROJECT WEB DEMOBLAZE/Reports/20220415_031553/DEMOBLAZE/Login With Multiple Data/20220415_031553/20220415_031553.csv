@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login With Multiple Data,Chrome 100.0.4896.88,,,2022-04-15 03:16:02,2022-04-15 03:16:35,33.319s,PASSED
+,,,,,,,
+Test Cases/Data Driven Login,Chrome 100.0.4896.88,,,2022-04-15 03:16:02,2022-04-15 03:16:13,10.233s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 03:16:03,2022-04-15 03:16:08,5.037s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 03:16:08,2022-04-15 03:16:09,1.276s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 03:16:09,2022-04-15 03:16:10,0.991s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername""), Username)",Chrome 100.0.4896.88,,,2022-04-15 03:16:10,2022-04-15 03:16:11,1.209s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword""), Password)",Chrome 100.0.4896.88,,,2022-04-15 03:16:11,2022-04-15 03:16:12,0.588s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 03:16:12,2022-04-15 03:16:13,0.650s,PASSED
+,,,,,,,
+Test Cases/Data Driven Login,Chrome 100.0.4896.88,,,2022-04-15 03:16:13,2022-04-15 03:16:20,6.996s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 03:16:13,2022-04-15 03:16:16,2.616s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 03:16:16,2022-04-15 03:16:16,0.783s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 03:16:16,2022-04-15 03:16:18,1.305s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername""), Username)",Chrome 100.0.4896.88,,,2022-04-15 03:16:18,2022-04-15 03:16:19,1.136s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword""), Password)",Chrome 100.0.4896.88,,,2022-04-15 03:16:19,2022-04-15 03:16:19,0.597s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 03:16:19,2022-04-15 03:16:20,0.379s,PASSED
+,,,,,,,
+Test Cases/Data Driven Login,Chrome 100.0.4896.88,,,2022-04-15 03:16:20,2022-04-15 03:16:27,7.411s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 03:16:20,2022-04-15 03:16:22,2.492s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 03:16:22,2022-04-15 03:16:23,0.882s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 03:16:23,2022-04-15 03:16:25,1.985s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername""), Username)",Chrome 100.0.4896.88,,,2022-04-15 03:16:25,2022-04-15 03:16:26,0.984s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword""), Password)",Chrome 100.0.4896.88,,,2022-04-15 03:16:26,2022-04-15 03:16:27,0.594s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 03:16:27,2022-04-15 03:16:27,0.458s,PASSED
+,,,,,,,
+Test Cases/Data Driven Login,Chrome 100.0.4896.88,,,2022-04-15 03:16:27,2022-04-15 03:16:35,8.085s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.88,,,2022-04-15 03:16:27,2022-04-15 03:16:30,2.461s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 100.0.4896.88,,,2022-04-15 03:16:30,2022-04-15 03:16:32,1.939s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/a_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 03:16:32,2022-04-15 03:16:33,1.561s,PASSED
+"setText(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/input_Username_loginusername""), Username)",Chrome 100.0.4896.88,,,2022-04-15 03:16:33,2022-04-15 03:16:34,1.018s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/input_Password_loginpassword""), Password)",Chrome 100.0.4896.88,,,2022-04-15 03:16:34,2022-04-15 03:16:35,0.509s,PASSED
+"click(findTestObject(""Object Repository/DEMOBLAZE/Login/Page_STORE/button_Log in""))",Chrome 100.0.4896.88,,,2022-04-15 03:16:35,2022-04-15 03:16:35,0.587s,PASSED
